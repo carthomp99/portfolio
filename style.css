@@ -1,0 +1,113 @@
+@property --main-color-2 {
+    syntax: "<color>";
+    inherits: false;
+    initial-value: #f4acb7;
+}
+
+@property --main-color-1 {
+    syntax: "<color>";
+    inherits: false;
+    initial-value: #ffcad4;
+}
+
+@property --secondary-color {
+    syntax: "<color>";
+    inherits: false;
+    initial-value: #ffe5d9;
+}
+
+@property --accent-1 {
+    syntax: "<color>";
+    inherits: false;
+    initial-value: #d8e2dc;
+}
+
+@property --accent-2 {
+    syntax: "<color>";
+    inherits: false;
+    initial-value: #9d8189;
+}
+
+@property --dark-text {
+    syntax: "<color>";
+    inherits: false;
+    initial-value: #5b182b;
+}
+
+@property --light-text {
+    syntax: "<color>";
+    inherits: false;
+    initial-value: #f3f6f4;
+}
+
+body {
+    background-color: var(--main-color-1);
+    font-family: 'Poltawski Nowy';
+    font-weight: 600;
+    font-size: 64px;
+    color: var(--dark-text);
+    text-align: center;
+}
+
+.header {
+    font-size: 42px;
+}
+
+.nav {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+}
+
+.nav li {
+    list-style-type: none;
+}
+
+.nav li a {
+    color: var(--dark-text);
+    text-decoration: none;
+}
+
+.nav li a:hover {
+    text-decoration: underline;
+}
+
+.top_block {
+    font-size: 100px;
+    text-decoration: underline;
+}
+
+.body_sections {
+    background-color: var(--secondary-color);
+    padding: 10px;
+}
+
+.body_sections div {
+    padding: 10px;
+    margin: 10px;
+    border: var(--dark-text) solid 5px;
+}
+
+.body_sections div:hover {
+    padding: 20px;
+    margin: 0;
+}
+
+.body_sections p {
+    font-family: Krub;
+    font-weight: 450;
+    font-size: 32px;
+    margin: 0;
+}
+
+.illustrations {
+    background-color: var(--main-color-2);
+}
+
+.about {
+    background-color: var(--accent-1);
+}
+
+.education {
+    background-color: var(--accent-2);
+    color: var(--light-text)
+}
