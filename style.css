@@ -168,36 +168,35 @@ a:hover {
     color: var(--light-text);
 }
 
-.school {
-    display: flex;
-    justify-content:space-between;
-    font-size: 48px;
-    color: var(--dark-text);
+.ed_wrapper {
+    border-radius: 20px;
+    border: 5px solid black;
+    padding: 10px;
     background-color: var(--secondary-color);
 }
 
+.school {
+    background-color: var(--secondary-color);
+    color: var(--dark-text);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.school div {
+    display: flex;
+    justify-content: space-between;
+}
+
 .school h5 {
-    margin: 20px;
+    font-size: 32px;
+    margin: 0;
+    padding: 20px;
 }
 
-.ed_wrapper {
-    padding: 10px;
-}
-
-.uni {
-    font-weight: 100;
-}
-
-.date {
-    font-weight: 100;
-}
-
-#s1 {
-    border-radius: 15px 15px 0 0;
-    border-bottom: 10px solid var(--accent-2);
-}
-
-#s3 {
-    border-radius: 0 0 15px 15px;
-    border-top: 10px solid var(--accent-2);
+.school p {
+    font-family: Krub;
+    font-size: 24px;
+    margin: 0;
+    padding: 20px;
 }
