@@ -170,7 +170,7 @@ a:hover {
 
 .school {
     display: flex;
-    justify-content: space-around;
+    justify-content:space-between;
     font-size: 48px;
     color: var(--dark-text);
     background-color: var(--secondary-color);
@@ -197,7 +197,7 @@ a:hover {
     border-bottom: 10px solid var(--accent-2);
 }
 
-#s2 {
+#s3 {
     border-radius: 0 0 15px 15px;
     border-top: 10px solid var(--accent-2);
 }
