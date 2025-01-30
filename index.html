@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -9,6 +10,7 @@
     <link rel="stylesheet" href="style.css">
     <title>A. Whittington | Home</title>
 </head>
+
 <body>
     <div class="header">
         <ul class="nav">
@@ -21,14 +23,47 @@
     </div>
     <div class="top_block">REVENANT RAM</div>
     <div class="body_sections">
-        <div class="illustrations">
-            ILLUSTRATIONS
-            <p>This is a test of the paragraph text</p>
+        <div class="illustrations main">
+            <div class="title">ILLUSTRATIONS
+                <p>This is a test of the paragraph text</p>
+            </div>
+            <!-- THIS WILL NEED TO USE JS TO WORK -->
+            <div class="content">
+                <a href="portfolio.html" class="main_subset">
+                    <img src="images/Velicity.jpg" alt="Velicity - A character portrait commission of a D&D character">
+                    <h1 class="subset_name">CHARACTER ART</h1>
+                    <p class="learn_more">Learn More</p>
+                </a>
+                <a href="portfolio.html" class="secondary_subset" id="left">
+                    <img src="images/DeadTired.jpg" alt="Dead Tired - Life drawing, a skeleton model sitting in a fabric chair">
+                    <h1 class="subset_name">LIFE DRAWING</h1>
+                    <p class="learn_more">Learn More</p>
+                </a>
+                <a href="portfolio.html" class="secondary_subset" id="right">
+                    <img src="images/Father.jpg" alt="Father - A stylized portrait of my father emphasizing interesting use of color">
+                    <h1 class="subset_name">PORTRAITS</h1>
+                    <p class="learn_more">Learn More</p>
+                </a>
+            </div>
         </div>
-        <div class="about">ABOUT</div>
-        <div class="education">EDUCATION</div>
-        <div class="contact">CONTACT</div>
+        <div class="about main">ABOUT</div>
+        <div class="education main">EDUCATION
+            <div class="ed_wrapper">
+                <div class="school" id="s1">
+                    <h5 class="degree">B.A. Illustration</h5>
+                    <h5 class="uni">MICA - Baltimore, MD</h5>
+                    <h5 class="date">Expected May 2027</h5>
+                </div>
+                <div class="school" id="s2">
+                    <h5 class="degree">A.A. Illustration</h5>
+                    <h5 class="uni">HCC - Hagerstown, MD</h5>
+                    <h5 class="date">Sep 2021 - May 2024</h5>
+                </div>
+            </div>
+        </div>
+        <div class="contact main">CONTACT</div>
     </div>
     <div class="footer">SOCIALS</div>
 </body>
+
 </html>
