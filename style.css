@@ -62,7 +62,7 @@ body {
 
 .nav {
     display: grid;
-    grid-template-columns: auto auto auto auto auto;
+    grid-template-columns: auto auto auto auto;
 }
 
 .nav li {
@@ -163,9 +163,22 @@ a:hover {
     background-color: var(--accent-1);
 }
 
+.about_contents {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 0 20px 0;
+}
+
+.about img {
+    max-width: 30vw;
+    border-radius: 15px;
+    border: 5px solid var(--dark-text)
+}
+
 .education {
     background-color: var(--accent-2);
     color: var(--light-text);
+    padding: 20px;
 }
 
 .ed_wrapper {
