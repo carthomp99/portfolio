@@ -4,7 +4,7 @@ const displayGallery = (json) => {
     json.forEach(piece => {
         const image = document.createElement("img")
         image.src=piece.localurl
-        image.alt= "" + piece.name + " " + piece.year + " " + piece.blurb
+        image.alt= "" + piece.name + " " + piece.blurb
 
         const imageBox = document.createElement("div")
 
@@ -19,7 +19,6 @@ const displayGallery = (json) => {
         textPortion.className = "img_description"
         textPortion.appendChild(imageName)
         textPortion.appendChild(imageBlurb)
-        textPortion.appendChild(year)
 
         imageBox.className = "img_wrap"
         imageBox.appendChild(image)
