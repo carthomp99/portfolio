@@ -260,6 +260,7 @@ a:hover {
 
 .img_description h5 {
     margin: 10px;
+    font-size: 44px;
 }
 
 .img_description p {
@@ -287,4 +288,19 @@ a:hover {
 
 .footer a {
     text-decoration: underline;
+}
+
+.portfolio_nav {
+    display: none;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.portfolio_nav li {
+    font-size: 32px;
+}
+
+.portfolio_sections:hover .portfolio_nav {
+    display: inline;
 }
