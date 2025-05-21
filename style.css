@@ -556,7 +556,7 @@
     }
     
     .portfolio_nav {
-        display: none;
+        display: inline;
         list-style-type: none;
         padding: 0;
         margin: 0;
@@ -816,7 +816,7 @@
     }
     
     .portfolio_nav {
-        display: none;
+        display: inline;
         list-style-type: none;
         padding: 0;
         margin: 0;
@@ -830,7 +830,7 @@
         font-size: 18px;
     }
     
-    .portfolio_sections:hover .portfolio_nav {
+    .portfolio_sections:active .portfolio_nav {
         display: inline;
     }
 }
