@@ -1,0 +1,47 @@
+[
+    {
+        "name":"Sample Project",
+        "main_img":"images/Illustrations/Velicity.jpg",
+        "gallery":
+        [
+            "images/Projects/Envy.jpg",
+            "images/Projects/Gluttony.jpg",
+            "images/Projects/Greed.jpg",
+            "images/Illustrations/Velicity.jpg",
+            "images/Projects/Pride.jpg",
+            "images/Projects/Sloth.jpg",
+            "images/Projects/Wrath.jpg"
+        ],
+        "blurb":"This is a sample project"
+    },
+    {
+        "name":"Sample Project",
+        "main_img":"images/Projects/Lust Card.jpg",
+        "gallery":
+        [
+            "images/Projects/Envy.jpg",
+            "images/Projects/Gluttony.jpg",
+            "images/Projects/Greed.jpg",
+            "images/Projects/Lust Card.jpg",
+            "images/Projects/Pride.jpg",
+            "images/Projects/Sloth.jpg",
+            "images/Projects/Wrath.jpg"
+        ],
+        "blurb":"This is a sample project"
+    },
+    {
+        "name":"Sample Project",
+        "main_img":"images/Projects/Lust Card.jpg",
+        "gallery":
+        [
+            "images/Projects/Envy.jpg",
+            "images/Projects/Gluttony.jpg",
+            "images/Projects/Greed.jpg",
+            "images/Projects/Lust Card.jpg",
+            "images/Projects/Pride.jpg",
+            "images/Projects/Sloth.jpg",
+            "images/Projects/Wrath.jpg"
+        ],
+        "blurb":"This is a sample project"
+    }
+]

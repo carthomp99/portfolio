@@ -306,6 +306,46 @@
         display: inline;
     }
 
+    .full_proj {
+        display: none;
+        background-color: var(--main-color-2);
+        padding: 10px;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        border-radius: 25px;
+
+    }
+
+    .proj_wrap {
+        padding: 20px;
+    }
+
+    .proj_gallery {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .proj_gallery img {
+        max-width: 50vw;
+        max-height: 70vh;
+        margin: 5px;
+    }
+
+    .proj_gallery h5 {
+        margin: 0;
+    }
+
+    .proj_gallery button {
+        border: none;
+        color: white;
+        background-color: var(--accent-2);
+        padding: 15px 32px;
+        font-size: 20px;
+        margin-bottom: 15px;
+        border-radius: 5px;
+        font-family: Krub;
+        font-weight: 450;
+    }
 }
 
 @media (min-width: 700px) and (max-width: 999px) {
@@ -568,6 +608,48 @@
     
     .portfolio_sections:hover .portfolio_nav {
         display: inline;
+    }
+
+    .full_proj {
+        display: none;
+        background-color: var(--main-color-2);
+        padding: 10px;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        border-radius: 25px;
+
+    }
+
+    .proj_wrap {
+        padding: 20px;
+    }
+
+    .proj_gallery {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .proj_gallery img {
+        max-width: 50vw;
+        max-height: 70vh;
+        margin: 5px;
+    }
+
+    .proj_gallery h5 {
+        margin: 0;
+        font-size: 32px;
+    }
+
+    .proj_gallery button {
+        border: none;
+        color: white;
+        background-color: var(--accent-2);
+        padding: 15px 32px;
+        font-size: 20px;
+        margin-bottom: 15px;
+        border-radius: 5px;
+        font-family: Krub;
+        font-weight: 450;
     }
 }
 
@@ -832,6 +914,48 @@
     
     .portfolio_sections:active .portfolio_nav {
         display: inline;
+    }
+
+    .full_proj {
+        display: none;
+        background-color: var(--main-color-2);
+        padding: 10px;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        border-radius: 25px;
+
+    }
+
+    .proj_wrap {
+        padding: 5px;
+    }
+
+    .proj_gallery {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .proj_gallery img {
+        max-width: 50vw;
+        max-height: 70vh;
+        margin: 5px;
+    }
+
+    .proj_gallery h5 {
+        margin: 0;
+        font-size: 20px;
+    }
+
+    .proj_gallery button {
+        border: none;
+        color: white;
+        background-color: var(--accent-2);
+        padding: 5px 12px;
+        font-size: 10px;
+        margin-bottom: 5px;
+        border-radius: 5px;
+        font-family: Krub;
+        font-weight: 450;
     }
 }
 
