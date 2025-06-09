@@ -1,22 +1,35 @@
 [
     {
-        "name":"Sample Project",
-        "main_img":"images/Illustrations/Velicity.jpg",
+        "name":"Ramsey",
+        "main_img":"images/Ramsey/ramsey1.jpg",
         "gallery":
         [
-            "images/Projects/Envy.jpg",
-            "images/Projects/Gluttony.jpg",
-            "images/Projects/Greed.jpg",
-            "images/Illustrations/Velicity.jpg",
-            "images/Projects/Pride.jpg",
-            "images/Projects/Sloth.jpg",
-            "images/Projects/Wrath.jpg"
+            "images/Ramsey/ramsey1.jpg",
+            "images/Ramsey/ramsey2.jpg",
+            "images/Ramsey/ramsey3.jpg",
+            "images/Ramsey/ramseycard.jpg"
         ],
-        "blurb":"This is a sample project"
+        "blurb":"Ramsey character design project"
     },
     {
-        "name":"Sample Project",
-        "main_img":"images/Projects/Lust Card.jpg",
+        "name":"Sailor Character/Background Project",
+        "main_img":"images/Sailor Character and Background Project/Untitled_Artwork(2).jpg",
+        "gallery":
+        [
+            "images/Sailor Character and Background Project/Untitled_Artwork(2).jpg",
+            "images/Sailor Character and Background Project/Untitled_Artwork(3).jpg",
+            "images/Sailor Character and Background Project/Untitled_Artwork(4).jpg",
+            "images/Sailor Character and Background Project/Untitled_Artwork 3.jpg",
+            "images/Sailor Character and Background Project/Untitled_Artwork(1).jpg",
+            "images/Sailor Character and Background Project/Untitled_Artwork.jpg",
+            "images/Sailor Character and Background Project/Untitled_Artwork 6.jpg",
+            "images/Sailor Character and Background Project/Untitled_Artwork(5).jpg"
+        ],
+        "blurb":"Sailor Character Design/Background Project - Jack Van Horne"
+    },
+    {
+        "name":"Seven Deadly Sins Zine",
+        "main_img":"images/Projects/Seven Deadly DND Sins (Front).jpg",
         "gallery":
         [
             "images/Projects/Envy.jpg",
@@ -25,23 +38,50 @@
             "images/Projects/Lust Card.jpg",
             "images/Projects/Pride.jpg",
             "images/Projects/Sloth.jpg",
-            "images/Projects/Wrath.jpg"
+            "images/Projects/Wrath.jpg",
+            "images/Projects/Seven Deadly DND Sins (Front).jpg",
+            "images/Projects/Sins.jpg"
         ],
-        "blurb":"This is a sample project"
+        "blurb":"A zine featuring 7 DND characters representing the 7 deadly sins, also featuring a poster on the back of a tower and a haunted moon."
     },
     {
-        "name":"Sample Project",
-        "main_img":"images/Projects/Lust Card.jpg",
+        "name":"Calendar Project",
+        "main_img":"images/Calendar project/May.jpg",
         "gallery":
         [
-            "images/Projects/Envy.jpg",
-            "images/Projects/Gluttony.jpg",
-            "images/Projects/Greed.jpg",
-            "images/Projects/Lust Card.jpg",
-            "images/Projects/Pride.jpg",
-            "images/Projects/Sloth.jpg",
-            "images/Projects/Wrath.jpg"
+            "images/Calendar project/April.jpg",
+            "images/Calendar project/May.jpg",
+            "images/Calendar project/June.jpg"
         ],
-        "blurb":"This is a sample project"
+        "blurb":"Calendar"
+    },
+    {
+        "name":"Wrestling 5 Man Band",
+        "main_img":"images/Wrestlers 5 Man Band/Week_2_Wrestlers_.jpg",
+        "gallery":
+        [
+            "images/Wrestlers 5 Man Band/Week_2_Wrestlers_.jpg",
+            "images/Wrestlers 5 Man Band/Untitled_Artwork.jpg",
+            "images/Wrestlers 5 Man Band/Untitled_Artwork 1.jpg",
+            "images/Wrestlers 5 Man Band/Untitled_Artwork 2.jpg",
+            "images/Wrestlers 5 Man Band/Week_1_Siloutes_.jpg",
+            "images/Wrestlers 5 Man Band/Assignment_3.jpg",
+            "images/Wrestlers 5 Man Band/Untitled_Artwork 3.jpg",
+            "images/Wrestlers 5 Man Band/Untitled_Artwork 4.jpg",
+            "images/Wrestlers 5 Man Band/Untitled_Artwork 5.jpg"
+        ],
+        "blurb":"A Five Man Band, plus their villain and henchman duo to oppose them. A project for my Character Design course"
+    },
+    {
+        "name":"Castaway Shopkeeper",
+        "main_img":"images/Castaway Shopkeeper/Untitled_Artwork.jpg",
+        "gallery":
+        [
+            "images/Castaway Shopkeeper/Untitled_Artwork.jpg",
+            "images/Castaway Shopkeeper/Client_Signs.jpg",
+            "images/Castaway Shopkeeper/Untitled_Artwork(1).jpg",
+            "images/Castaway Shopkeeper/Untitled_Artwork(2).jpg"
+        ],
+        "blurb":"Sample client work for my Character Design class. The prompt was to create a character who alkjlsadjkalsd"
     }
 ]
