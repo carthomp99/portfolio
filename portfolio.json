@@ -48,6 +48,10 @@
         "name":"Forever",
         "blurb":"A pet portrait commission",
         "localurl":"images/Portraits/Forever.jpg"
+    },{
+        "name":"Dead Tired",
+        "blurb":"",
+        "localurl":"images/Traditional/DeadTired.jpg"
     },
     {
         "name":"Dead People",
@@ -80,6 +84,11 @@
         "localurl":"images/Illustrations/Chainsaw Man.jpg"
     },
     {
+        "name":"Bucket Study",
+        "blurb":"",
+        "localurl":"images/Traditional/IMG_5768.jpg"
+    },
+    {
         "name":"Boot Study",
         "blurb":"A study of a Timberland boot",
         "localurl":"images/Illustrations/Boot Study.jpg"
@@ -100,9 +109,19 @@
         "localurl":"images/Illustrations/DND Designs.jpg"
     },
     {
+        "name":"Tools Study",
+        "blurb":"",
+        "localurl":"images/Traditional/IMG_5769.jpg"
+    },
+    {
         "name":"Eloise",
         "blurb":"A solemn portrait of a D&D character",
         "localurl":"images/Illustrations/Eloise.jpg"
+    },
+    {
+        "name":"Study 5",
+        "blurb":"",
+        "localurl":"images/Traditional/Whittington, Abby CW 11_9 - 2.jpg"
     },
     {
         "name":"Guardian",
@@ -145,6 +164,11 @@
         "localurl":"images/Illustrations/Leading.jpg"
     },
     {
+        "name":"Study 7",
+        "blurb":"",
+        "localurl":"images/Traditional/Whittington, Abby HW 9_6-1.jpg"
+    },
+    {
         "name":"Long Rest",
         "blurb":"An illustration of my D&D party",
         "localurl":"images/Illustrations/Long Rest.jpg"
@@ -173,6 +197,11 @@
         "name":"Raiders",
         "blurb":"Fallout Fanart",
         "localurl":"images/Illustrations/Raiders.jpg"
+    },
+    {
+        "name":"Study 12",
+        "blurb":"",
+        "localurl":"images/Traditional/Whittington, Abby HW 11_15 .jpg"
     },
     {
         "name":"Rain-Type Boys",
@@ -324,4 +353,4 @@
         "blurb":"A pet portrait commission",
         "localurl":"images/Portraits/Tucker.jpg"
     }
-    ]
+]
