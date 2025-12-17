@@ -63,7 +63,7 @@
     
     .nav {
         display: grid;
-        grid-template-columns: auto auto auto auto;
+        grid-template-columns: auto auto auto auto auto;
     }
     
     .nav li {
