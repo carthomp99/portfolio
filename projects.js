@@ -26,7 +26,7 @@ const displayProjects = (json) => {
             imgBox.src=image
             imgBox.alt=image
             imgBox.className = "proj_img"
-          fullProject.appendChild(imgBox)  
+            fullProject.appendChild(imgBox)  
         })
         
         projectName.innerHTML = project.name
