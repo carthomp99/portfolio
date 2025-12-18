@@ -371,6 +371,75 @@
         font-size: 28px;
         margin: 10px;
     }
+
+    .socials {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        padding: 10px;
+        list-style-type: none;
+        margin: 0;
+    }
+
+    .socials li a {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        gap: 20px;
+        padding: 10px;
+        font-size: 32px;
+    }
+
+    .socials img {
+        max-height: 80px;
+    }
+
+    .commissions button {
+        border: none;
+        color: white;
+        background-color: var(--accent-2);
+        padding: 15px 32px;
+        font-size: 20px;
+        margin-bottom: 15px;
+        border-radius: 5px;
+        font-family: Krub;
+        font-weight: 450;
+    }
+
+    .commissionGallery {
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        padding: 20px;
+    }
+
+    .commissionGallery img {
+        max-height: 80vh;
+        max-width: 30vw;
+    }
+
+    .commissions .img_wrap:hover .img_description {
+        display: inline;
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background: rgba(231, 154, 244, 0.92);
+        height: auto;
+        color: black;
+    }
+
+    .ebay a {
+        font-size: 28px;
+        text-decoration: underline;
+    }
+
+    .ebay p a {
+        font-style: italic;
+        font-size: 24px;
+    }
 }
 
 @media (min-width: 700px) and (max-width: 999px) {
