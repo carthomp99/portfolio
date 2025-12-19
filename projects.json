@@ -1,5 +1,58 @@
 [
     {
+        "name":"The Sea Maiden (Fall 2025)",
+        "main_img":"images/The Sea Maiden/Sea Maiden Mockup.jpg",
+        "gallery":
+        [
+            "images/The Sea Maiden/Sea Maiden Mockup.jpg",
+            "images/The Sea Maiden/Boy Final.jpg",
+            "images/The Sea Maiden/Dog Final.jpg",
+            "images/The Sea Maiden/Falcon Final.jpg",
+            "images/The Sea Maiden/Otter Final.jpg",
+            "images/The Sea Maiden/Boy Silhouettes.jpg",
+            "images/The Sea Maiden/Boy Silhouettes 2.jpg",
+            "images/The Sea Maiden/Animal Silhouettes.jpg"
+        ],
+        "blurb":"Junior Illustration Final. Mockups/designs for a Hades-like game based on the Celtic story of the Sea Maiden"
+    },
+    {
+        "name":"Sherbert Brand Design (Fall 2025)",
+        "main_img":"images/Ice Cream/Blue Sherbert.jpg",
+        "gallery":
+        [
+            "images/Ice Cream/Blue_Sherbert.jpg",
+            "images/Ice Cream/Ice_Cream_Paper_Cup_Mockup.jpg",
+            "images/Ice Cream/Orange Lid.jpg",
+            "images/Ice Cream/Blue Lid.jpg",
+            "images/Ice Cream/Blue Sherbert.jpg",
+            "images/Ice Cream/Orange Sherbert.jpg"
+        ],
+        "blurb":"Sherbert container design project for Junior Illustration"
+    },
+    {
+        "name":"The Headless Horseman (Fall 2025)",
+        "main_img":"images/Illustrations/Headless Horseman 3.jpg",
+        "gallery":
+        [
+            "images/Illustrations/Cowboys 1.jpg",
+            "images/Illustrations/Cowboys 2.jpg",
+            "images/Illustrations/Headless Horseman 3.jpg"
+        ],
+        "blurb":"[Horseman blurb]"
+    },
+    {
+        "name":"Skateboard Project (Fall 2025)",
+        "main_img":"images/Skateboard Assignment/Skateboard Final.jpg",
+        "gallery":
+        [
+            "images/Skateboard Assignment/Skateboard Final.jpg",
+            "images/Skateboard Assignment/Skateboard Draft.jpg",
+            "images/Skateboard Assignment/Skateboard Lines.jpg",
+            "images/Skateboard Assignment/Skateboard Brainstorming.jpg"
+        ],
+        "blurb":"Skateboard deck design project for Junior Illustration"
+    },
+    {
         "name":"Ramsey",
         "main_img":"images/Ramsey/ramsey1.jpg",
         "gallery":
@@ -82,6 +135,6 @@
             "images/Castaway Shopkeeper/Untitled_Artwork(1).jpg",
             "images/Castaway Shopkeeper/Untitled_Artwork(2).jpg"
         ],
-        "blurb":"Sample client work for my Character Design class. The prompt was to create a character who alkjlsadjkalsd"
+        "blurb":"Sample client work for my Character Design class"
     }
 ]

@@ -372,6 +372,14 @@
         margin: 10px;
     }
 
+    .ebay {
+        background-color: var(--main-color-2);
+    }
+    
+    .follow {
+        background-color: var(--accent-1);
+    }
+
     .socials {
         display: flex;
         flex-direction: row;

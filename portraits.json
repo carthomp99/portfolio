@@ -5,6 +5,11 @@
         "localurl":"images/Portraits/Artist in the Black Hat.jpg"
     },
     {
+        "name":"Alex Turner",
+        "blurb":"A portrait of Arctic Monkeys frontman Alex Turner",
+        "localurl":"images/Alex/Alex.jpg"
+    },
+    {
         "name":"Cat",
         "blurb":"A pet portrait commission",
         "localurl":"images/Portraits/Cat.jpg"
@@ -18,6 +23,11 @@
         "name":"Drug Free",
         "blurb":"A drawing of AEW wrestler Darby Allin",
         "localurl":"images/Portraits/Drug_Free.jpg"
+    },
+    {
+        "name":"Alex Turner 2",
+        "blurb":"A portrait of Arctic Monkeys frontman Alex Turner",
+        "localurl":"images/Alex/Untitled_Artwork(7).jpg"
     },
     {
         "name":"Fall 2024",
